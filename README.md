@@ -8,4 +8,4 @@
 1. [First Socket Example](https://github.com/bekker-volodymyr/NetworkProgramming/tree/main/FirstSocketExample) - простий застосунок, що підключається до локального серверу через сокет та отримує HTML-сторінку. Для інтерфейсу використано WinForms.
 2. [Console Socket Example](https://github.com/bekker-volodymyr/NetworkProgramming/tree/main/ConsoleSocketExample) - консольний застосунок, що підключається до example.com та отримує HTML-сторінку. Приклад також наведено в [офіційній документації Microsoft](https://learn.microsoft.com/uk-ua/dotnet/api/system.net.sockets.socket?view=net-9.0&viewFallbackFrom=net-8.0%3Fns-enrollment-type%3Dcollection&ns-enrollment-id=ewj8uot4r32r0k)
 3. [Sync Client Server](https://github.com/bekker-volodymyr/NetworkProgramming/tree/main/SyncClientServer) - проєкт що складається з клієнтної та серверної частини. Демонструє простий обмін повідомленням через синхронний сокет.
-4. 
+4. [Server Increment Example](https://github.com/bekker-volodymyr/NetworkProgramming/tree/main/ServerIncrementExample) - проєкт, що демонструє використання синхронного сокету для тривалого обміну повідомленнями між сервером та клієнтом.
